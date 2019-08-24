@@ -7,7 +7,7 @@ import sad from './assets/images/sad2.png';
 import angry from './assets/images/angry.png';
 import mustaches from './assets/images/mustaches.png';
 
-import CircularSideNav from './components/CircularSideNav/CircularSideNav';
+import CircularSideNav from './Components/CircularSideNav/CircularSideNav';
 
 function App() {
   const [state, setState] = useState(

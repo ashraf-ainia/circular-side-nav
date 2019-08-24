@@ -11,7 +11,6 @@ interface IState {
 }
 
 type IProps = {
-    children?: JSX.Element;
     navSize: number;
     elements: JSX.Element[];
     animation?: String | 'sequence';
