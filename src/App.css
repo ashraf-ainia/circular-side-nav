@@ -28,3 +28,14 @@
 .change-color-weird:hover{
   background-color: pink !important;
 }
+
+.header{
+  padding: 1em;
+  text-align: center;
+}
+.header button{
+  margin: 0.5em;
+}
+.header input{
+  margin: 0.5em;
+}
