@@ -1,3 +1,6 @@
+## Definition
+A simple React circular side nav component.
+
 ## Demo
 
 #### [Live demo](https://ashraf-ainia.github.io/circular-side-nav/)
